@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f0ee13caaa71a254f8faca00dba9579e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7700046695103612882
+    second: PenguinWithCape_0
+  - first:
+      213: -5485223317809650537
+    second: PenguinWithCape_1
+  - first:
+      213: -8925211881101256852
+    second: PenguinWithCape_2
+  - first:
+      213: 8736319626616754186
+    second: PenguinWithCape_3
+  - first:
+      213: -4333142160201894677
+    second: PenguinWithCape_4
+  - first:
+      213: -298056005753133503
+    second: PenguinWithCape_5
+  - first:
+      213: 8096212876522763473
+    second: PenguinWithCape_6
+  - first:
+      213: 6495377729840672309
+    second: PenguinWithCape_7
+  - first:
+      213: 3608339249719114608
+    second: PenguinWithCape_8
+  - first:
+      213: 6404922049477162032
+    second: PenguinWithCape_9
+  - first:
+      213: 6185576960321429543
+    second: PenguinWithCape_10
+  - first:
+      213: 8176046901998977325
+    second: PenguinWithCape_11
+  - first:
+      213: 8827205480098512705
+    second: PenguinWithCape_12
+  - first:
+      213: -656386651262523495
+    second: PenguinWithCape_13
+  - first:
+      213: 5748201654223398378
+    second: PenguinWithCape_14
+  - first:
+      213: 3556735088578223411
+    second: PenguinWithCape_15
+  - first:
+      213: -1003362246519751932
+    second: PenguinWithCape_16
+  - first:
+      213: 6262667070622543275
+    second: PenguinWithCape_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PenguinWithCape_0
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 549
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28bd60d350f32590800000000000000
+      internalID: -7700046695103612882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_1
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 549
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942444547290e3b0800000000000000
+      internalID: -5485223317809650537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_2
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 549
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671dd9f417432480800000000000000
+      internalID: -8925211881101256852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_3
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 539
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d3c4d964ad3970800000000000000
+      internalID: 8736319626616754186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_4
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 369
+        width: 412
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b5ebc9269dd3c0800000000000000
+      internalID: -4333142160201894677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_5
+      rect:
+        serializedVersion: 2
+        x: 7060
+        y: 549
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a9e554a71ddbf0800000000000000
+      internalID: -298056005753133503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_6
+      rect:
+        serializedVersion: 2
+        x: 8660
+        y: 549
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4351337b68b5070800000000000000
+      internalID: 8096212876522763473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_7
+      rect:
+        serializedVersion: 2
+        x: 10260
+        y: 549
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee22d91a7342a50800000000000000
+      internalID: 6495377729840672309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_8
+      rect:
+        serializedVersion: 2
+        x: 11860
+        y: 539
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b7b980e65631230800000000000000
+      internalID: 3608339249719114608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_9
+      rect:
+        serializedVersion: 2
+        x: 13460
+        y: 549
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03437255baad2e850800000000000000
+      internalID: 6404922049477162032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720acca097597d550800000000000000
+      internalID: 6185576960321429543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_11
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 369
+        width: 442
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21059cb657277170800000000000000
+      internalID: 8176046901998977325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_12
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 369
+        width: 442
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f37a89d98808a70800000000000000
+      internalID: 8827205480098512705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_13
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 369
+        width: 442
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997603081db04e6f0800000000000000
+      internalID: -656386651262523495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_14
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 369
+        width: 442
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae56c4103f6b5cf40800000000000000
+      internalID: 5748201654223398378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_15
+      rect:
+        serializedVersion: 2
+        x: 9880
+        y: 369
+        width: 442
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5fdaf7bf0c5130800000000000000
+      internalID: 3556735088578223411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_16
+      rect:
+        serializedVersion: 2
+        x: 11480
+        y: 369
+        width: 442
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf6235a575312f0800000000000000
+      internalID: -1003362246519751932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinWithCape_17
+      rect:
+        serializedVersion: 2
+        x: 13080
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad2efa058679e650800000000000000
+      internalID: 6262667070622543275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PenguinWithCape_0: -7700046695103612882
+      PenguinWithCape_1: -5485223317809650537
+      PenguinWithCape_10: 6185576960321429543
+      PenguinWithCape_11: 8176046901998977325
+      PenguinWithCape_12: 8827205480098512705
+      PenguinWithCape_13: -656386651262523495
+      PenguinWithCape_14: 5748201654223398378
+      PenguinWithCape_15: 3556735088578223411
+      PenguinWithCape_16: -1003362246519751932
+      PenguinWithCape_17: 6262667070622543275
+      PenguinWithCape_2: -8925211881101256852
+      PenguinWithCape_3: 8736319626616754186
+      PenguinWithCape_4: -4333142160201894677
+      PenguinWithCape_5: -298056005753133503
+      PenguinWithCape_6: 8096212876522763473
+      PenguinWithCape_7: 6495377729840672309
+      PenguinWithCape_8: 3608339249719114608
+      PenguinWithCape_9: 6404922049477162032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

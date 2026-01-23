@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 3baaeb5d5d9ade0449d38b513e7b698b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 233828745379893674
+    second: Copy of Lv 1 (Skyline Buildings)_0
+  - first:
+      213: 9049841381495823190
+    second: Copy of Lv 1 (Skyline Buildings)_1
+  - first:
+      213: -8351732904193203469
+    second: Copy of Lv 1 (Skyline Buildings)_2
+  - first:
+      213: -314991926361873122
+    second: Copy of Lv 1 (Skyline Buildings)_3
+  - first:
+      213: 3151345254426372649
+    second: Copy of Lv 1 (Skyline Buildings)_4
+  - first:
+      213: -389651763308127900
+    second: Copy of Lv 1 (Skyline Buildings)_5
+  - first:
+      213: 5410391373908218667
+    second: Copy of Lv 1 (Skyline Buildings)_6
+  - first:
+      213: -4696303626000309661
+    second: Copy of Lv 1 (Skyline Buildings)_7
+  - first:
+      213: 261103080522997577
+    second: Copy of Lv 1 (Skyline Buildings)_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 329
+        width: 172
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1d4aa410abe3300800000000000000
+      internalID: 233828745379893674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 329
+        width: 72
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b50b1d9ce779d70800000000000000
+      internalID: 9049841381495823190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 329
+        width: 112
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f26f9a4c2fa81c80800000000000000
+      internalID: -8351732904193203469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 369
+        width: 72
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a51a038ce0abf0800000000000000
+      internalID: -314991926361873122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 299
+        width: 172
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a62b6ffc3dbbb20800000000000000
+      internalID: 3151345254426372649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_5
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 289
+        width: 72
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4691ae529cda79af0800000000000000
+      internalID: -389651763308127900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_6
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 329
+        width: 162
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2313a10a42951b40800000000000000
+      internalID: 5410391373908218667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 369
+        width: 72
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3626fd6fbb063deb0800000000000000
+      internalID: -4696303626000309661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Skyline Buildings)_8
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 329
+        width: 172
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f555c4edf9f9300800000000000000
+      internalID: 261103080522997577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Copy of Lv 1 (Skyline Buildings)_0: 233828745379893674
+      Copy of Lv 1 (Skyline Buildings)_1: 9049841381495823190
+      Copy of Lv 1 (Skyline Buildings)_2: -8351732904193203469
+      Copy of Lv 1 (Skyline Buildings)_3: -314991926361873122
+      Copy of Lv 1 (Skyline Buildings)_4: 3151345254426372649
+      Copy of Lv 1 (Skyline Buildings)_5: -389651763308127900
+      Copy of Lv 1 (Skyline Buildings)_6: 5410391373908218667
+      Copy of Lv 1 (Skyline Buildings)_7: -4696303626000309661
+      Copy of Lv 1 (Skyline Buildings)_8: 261103080522997577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

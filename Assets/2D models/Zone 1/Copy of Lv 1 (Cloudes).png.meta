@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 52fa4d5fbbc4e1f40bdd49d914a97e7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2353749419733528019
+    second: Copy of Lv 1 (Cloudes)_0
+  - first:
+      213: 4518632349488776590
+    second: Copy of Lv 1 (Cloudes)_1
+  - first:
+      213: -8410963377863242075
+    second: Copy of Lv 1 (Cloudes)_2
+  - first:
+      213: -5296826450618122522
+    second: Copy of Lv 1 (Cloudes)_3
+  - first:
+      213: 3524961715217105749
+    second: Copy of Lv 1 (Cloudes)_4
+  - first:
+      213: -5868911438603628577
+    second: Copy of Lv 1 (Cloudes)_5
+  - first:
+      213: -3568820192695104031
+    second: Copy of Lv 1 (Cloudes)_6
+  - first:
+      213: -464452574112462212
+    second: Copy of Lv 1 (Cloudes)_7
+  - first:
+      213: 3498165963805114760
+    second: Copy of Lv 1 (Cloudes)_8
+  - first:
+      213: 980104033760661221
+    second: Copy of Lv 1 (Cloudes)_9
+  - first:
+      213: -2113812639865186116
+    second: Copy of Lv 1 (Cloudes)_10
+  - first:
+      213: 9051406151553514533
+    second: Copy of Lv 1 (Cloudes)_11
+  - first:
+      213: 4884238655988182224
+    second: Copy of Lv 1 (Cloudes)_12
+  - first:
+      213: 1091238439788625545
+    second: Copy of Lv 1 (Cloudes)_13
+  - first:
+      213: 4341640395564979919
+    second: Copy of Lv 1 (Cloudes)_14
+  - first:
+      213: 1329372902615673645
+    second: Copy of Lv 1 (Cloudes)_15
+  - first:
+      213: 8806691286278255723
+    second: Copy of Lv 1 (Cloudes)_16
+  - first:
+      213: -5915997014755891832
+    second: Copy of Lv 1 (Cloudes)_17
+  - first:
+      213: 3233727763779489489
+    second: Copy of Lv 1 (Cloudes)_18
+  - first:
+      213: 8266319870980672157
+    second: Copy of Lv 1 (Cloudes)_19
+  - first:
+      213: -6858987489169716489
+    second: Copy of Lv 1 (Cloudes)_20
+  - first:
+      213: 2497055670752580531
+    second: Copy of Lv 1 (Cloudes)_21
+  - first:
+      213: 7149480130376791738
+    second: Copy of Lv 1 (Cloudes)_22
+  - first:
+      213: -9189054761680222193
+    second: Copy of Lv 1 (Cloudes)_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 849
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddaf7560a23aa020800000000000000
+      internalID: 2353749419733528019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 829
+        width: 132
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e850edd5e2865be30800000000000000
+      internalID: 4518632349488776590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 829
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae44abfe51464b80800000000000000
+      internalID: -8410963377863242075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 739
+        width: 242
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee730e2864ed76b0800000000000000
+      internalID: -5296826450618122522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 829
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530e52010e2be030800000000000000
+      internalID: 3524961715217105749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 819
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfcdc334207d8ea0800000000000000
+      internalID: -5868911438603628577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 749
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edca2371f0097ec0800000000000000
+      internalID: -3568820192695104031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 809
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac20938deed89f0800000000000000
+      internalID: -464452574112462212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_8
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 809
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88147f5f86bfb8030800000000000000
+      internalID: 3498165963805114760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_9
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 759
+        width: 202
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4b370d670a9d00800000000000000
+      internalID: 980104033760661221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_10
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 839
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8da1f7a9a3aa2e0800000000000000
+      internalID: -2113812639865186116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 729
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cf12d30fd0d9d70800000000000000
+      internalID: 9051406151553514533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 749
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc28680e2d48c340800000000000000
+      internalID: 4884238655988182224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 759
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e3ad0549bd42f00800000000000000
+      internalID: 1091238439788625545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 679
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc61320dfea904c30800000000000000
+      internalID: 4341640395564979919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 699
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bef629c91e27210800000000000000
+      internalID: 1329372902615673645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_16
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 629
+        width: 192
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64b425a017a73a70800000000000000
+      internalID: 8806691286278255723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_17
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 739
+        width: 132
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88524333f0826eda0800000000000000
+      internalID: -5915997014755891832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 589
+        width: 152
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0564a44280ec20800000000000000
+      internalID: 3233727763779489489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 609
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a4e85302ed7b270800000000000000
+      internalID: 8266319870980672157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 619
+        width: 172
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac035183bffc0a0800000000000000
+      internalID: -6858987489169716489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_21
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 649
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3159f07e257a220800000000000000
+      internalID: 2497055670752580531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_22
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 599
+        width: 192
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab672db8c4e083360800000000000000
+      internalID: 7149480130376791738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy of Lv 1 (Cloudes)_23
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 559
+        width: 162
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084074416be97080800000000000000
+      internalID: -9189054761680222193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Copy of Lv 1 (Cloudes)_0: 2353749419733528019
+      Copy of Lv 1 (Cloudes)_1: 4518632349488776590
+      Copy of Lv 1 (Cloudes)_10: -2113812639865186116
+      Copy of Lv 1 (Cloudes)_11: 9051406151553514533
+      Copy of Lv 1 (Cloudes)_12: 4884238655988182224
+      Copy of Lv 1 (Cloudes)_13: 1091238439788625545
+      Copy of Lv 1 (Cloudes)_14: 4341640395564979919
+      Copy of Lv 1 (Cloudes)_15: 1329372902615673645
+      Copy of Lv 1 (Cloudes)_16: 8806691286278255723
+      Copy of Lv 1 (Cloudes)_17: -5915997014755891832
+      Copy of Lv 1 (Cloudes)_18: 3233727763779489489
+      Copy of Lv 1 (Cloudes)_19: 8266319870980672157
+      Copy of Lv 1 (Cloudes)_2: -8410963377863242075
+      Copy of Lv 1 (Cloudes)_20: -6858987489169716489
+      Copy of Lv 1 (Cloudes)_21: 2497055670752580531
+      Copy of Lv 1 (Cloudes)_22: 7149480130376791738
+      Copy of Lv 1 (Cloudes)_23: -9189054761680222193
+      Copy of Lv 1 (Cloudes)_3: -5296826450618122522
+      Copy of Lv 1 (Cloudes)_4: 3524961715217105749
+      Copy of Lv 1 (Cloudes)_5: -5868911438603628577
+      Copy of Lv 1 (Cloudes)_6: -3568820192695104031
+      Copy of Lv 1 (Cloudes)_7: -464452574112462212
+      Copy of Lv 1 (Cloudes)_8: 3498165963805114760
+      Copy of Lv 1 (Cloudes)_9: 980104033760661221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

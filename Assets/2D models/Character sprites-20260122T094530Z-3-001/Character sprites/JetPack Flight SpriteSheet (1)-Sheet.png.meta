@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 02a2ac627d7ca9e468b6a769ea7c2193
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1655951570629530865
+    second: JetPack Flight SpriteSheet (1)-Sheet_0
+  - first:
+      213: -2093806870779013962
+    second: JetPack Flight SpriteSheet (1)-Sheet_1
+  - first:
+      213: -6536471659072062457
+    second: JetPack Flight SpriteSheet (1)-Sheet_2
+  - first:
+      213: -4483015597187269517
+    second: JetPack Flight SpriteSheet (1)-Sheet_3
+  - first:
+      213: -1775626699958910843
+    second: JetPack Flight SpriteSheet (1)-Sheet_4
+  - first:
+      213: -2845513181316375022
+    second: JetPack Flight SpriteSheet (1)-Sheet_5
+  - first:
+      213: -3717435217195997071
+    second: JetPack Flight SpriteSheet (1)-Sheet_6
+  - first:
+      213: -9106417360779742142
+    second: JetPack Flight SpriteSheet (1)-Sheet_7
+  - first:
+      213: -1431885975892233977
+    second: JetPack Flight SpriteSheet (1)-Sheet_8
+  - first:
+      213: 5541677174594951922
+    second: JetPack Flight SpriteSheet (1)-Sheet_9
+  - first:
+      213: 1113670791179498072
+    second: JetPack Flight SpriteSheet (1)-Sheet_10
+  - first:
+      213: 2138157766457016005
+    second: JetPack Flight SpriteSheet (1)-Sheet_11
+  - first:
+      213: -5638315799747099080
+    second: JetPack Flight SpriteSheet (1)-Sheet_12
+  - first:
+      213: 8239082714471647054
+    second: JetPack Flight SpriteSheet (1)-Sheet_13
+  - first:
+      213: -8708698569764523049
+    second: JetPack Flight SpriteSheet (1)-Sheet_14
+  - first:
+      213: 150224736564833723
+    second: JetPack Flight SpriteSheet (1)-Sheet_15
+  - first:
+      213: 2607234396112128891
+    second: JetPack Flight SpriteSheet (1)-Sheet_16
+  - first:
+      213: -8117494661786163411
+    second: JetPack Flight SpriteSheet (1)-Sheet_17
+  - first:
+      213: 2217559076882364610
+    second: JetPack Flight SpriteSheet (1)-Sheet_18
+  - first:
+      213: -6717804072892374129
+    second: JetPack Flight SpriteSheet (1)-Sheet_19
+  - first:
+      213: 565017360384384113
+    second: JetPack Flight SpriteSheet (1)-Sheet_20
+  - first:
+      213: 3650889975744196208
+    second: JetPack Flight SpriteSheet (1)-Sheet_21
+  - first:
+      213: 790846048365935786
+    second: JetPack Flight SpriteSheet (1)-Sheet_22
+  - first:
+      213: 1354675629091645399
+    second: JetPack Flight SpriteSheet (1)-Sheet_23
+  - first:
+      213: 8159086272198692110
+    second: JetPack Flight SpriteSheet (1)-Sheet_24
+  - first:
+      213: -4025462377099044122
+    second: JetPack Flight SpriteSheet (1)-Sheet_25
+  - first:
+      213: -5971811515408421763
+    second: JetPack Flight SpriteSheet (1)-Sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 159
+        width: 522
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b6063f1d0e409e0800000000000000
+      internalID: -1655951570629530865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 839
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d1f69ebd41f2e0800000000000000
+      internalID: -2093806870779013962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 829
+        width: 112
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf99468a9c945a0800000000000000
+      internalID: -6536471659072062457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 829
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cfd1ff01129c1c0800000000000000
+      internalID: -4483015597187269517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7049
+        y: 819
+        width: 112
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580004f8ce4bb57e0800000000000000
+      internalID: -1775626699958910843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 819
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e12f776d4b288d0800000000000000
+      internalID: -2845513181316375022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 509
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786183ad54096cc0800000000000000
+      internalID: -3717435217195997071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 189
+        width: 542
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f54288a18f9180800000000000000
+      internalID: -9106417360779742142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 209
+        width: 572
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70174189a4be02ce0800000000000000
+      internalID: -1431885975892233977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 249
+        width: 582
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5f9b770ef7ec40800000000000000
+      internalID: 5541677174594951922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 159
+        width: 532
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8527bf02fad847f00800000000000000
+      internalID: 1113670791179498072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8339
+        y: 509
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceb96ff8234cad10800000000000000
+      internalID: 2138157766457016005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8359
+        y: 129
+        width: 512
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360a9837ada0c1b0800000000000000
+      internalID: -5638315799747099080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 359
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c427831a175270800000000000000
+      internalID: 8239082714471647054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 359
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3bb3d9acc742780800000000000000
+      internalID: -8708698569764523049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 369
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd6c6b1a94b51200800000000000000
+      internalID: 150224736564833723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 369
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b817a9ed1ce2420800000000000000
+      internalID: 2607234396112128891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 369
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d272b1a0d9dd85f80800000000000000
+      internalID: -8117494661786163411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8209
+        y: 369
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c834063b3a56ce10800000000000000
+      internalID: 2217559076882364610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 329
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e394c9c095c2a0800000000000000
+      internalID: -6717804072892374129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 329
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cd3a1bb4857d700800000000000000
+      internalID: 565017360384384113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 269
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e6446f6119aa230800000000000000
+      internalID: 3650889975744196208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 269
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac7fd87a46a9fa00800000000000000
+      internalID: 790846048365935786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 259
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e2e9ae46ccc210800000000000000
+      internalID: 1354675629091645399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 259
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d4b226cb5ea3170800000000000000
+      internalID: 8159086272198692110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 259
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eadf4cbb4fa228c0800000000000000
+      internalID: -4025462377099044122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 8179
+        y: 259
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c6e76111ddf1da0800000000000000
+      internalID: -5971811515408421763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JetPack Flight SpriteSheet (1)-Sheet_0: -1655951570629530865
+      JetPack Flight SpriteSheet (1)-Sheet_1: -2093806870779013962
+      JetPack Flight SpriteSheet (1)-Sheet_10: 1113670791179498072
+      JetPack Flight SpriteSheet (1)-Sheet_11: 2138157766457016005
+      JetPack Flight SpriteSheet (1)-Sheet_12: -5638315799747099080
+      JetPack Flight SpriteSheet (1)-Sheet_13: 8239082714471647054
+      JetPack Flight SpriteSheet (1)-Sheet_14: -8708698569764523049
+      JetPack Flight SpriteSheet (1)-Sheet_15: 150224736564833723
+      JetPack Flight SpriteSheet (1)-Sheet_16: 2607234396112128891
+      JetPack Flight SpriteSheet (1)-Sheet_17: -8117494661786163411
+      JetPack Flight SpriteSheet (1)-Sheet_18: 2217559076882364610
+      JetPack Flight SpriteSheet (1)-Sheet_19: -6717804072892374129
+      JetPack Flight SpriteSheet (1)-Sheet_2: -6536471659072062457
+      JetPack Flight SpriteSheet (1)-Sheet_20: 565017360384384113
+      JetPack Flight SpriteSheet (1)-Sheet_21: 3650889975744196208
+      JetPack Flight SpriteSheet (1)-Sheet_22: 790846048365935786
+      JetPack Flight SpriteSheet (1)-Sheet_23: 1354675629091645399
+      JetPack Flight SpriteSheet (1)-Sheet_24: 8159086272198692110
+      JetPack Flight SpriteSheet (1)-Sheet_25: -4025462377099044122
+      JetPack Flight SpriteSheet (1)-Sheet_26: -5971811515408421763
+      JetPack Flight SpriteSheet (1)-Sheet_3: -4483015597187269517
+      JetPack Flight SpriteSheet (1)-Sheet_4: -1775626699958910843
+      JetPack Flight SpriteSheet (1)-Sheet_5: -2845513181316375022
+      JetPack Flight SpriteSheet (1)-Sheet_6: -3717435217195997071
+      JetPack Flight SpriteSheet (1)-Sheet_7: -9106417360779742142
+      JetPack Flight SpriteSheet (1)-Sheet_8: -1431885975892233977
+      JetPack Flight SpriteSheet (1)-Sheet_9: 5541677174594951922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

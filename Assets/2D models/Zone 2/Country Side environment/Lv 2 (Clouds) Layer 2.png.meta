@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: e126cabd214ff174cba25fffa15c00bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3209556915173940545
+    second: Lv 2 (Clouds) Layer 2_0
+  - first:
+      213: 597597897653038042
+    second: Lv 2 (Clouds) Layer 2_1
+  - first:
+      213: -1513506160719391934
+    second: Lv 2 (Clouds) Layer 2_2
+  - first:
+      213: -5454764541859141073
+    second: Lv 2 (Clouds) Layer 2_3
+  - first:
+      213: 7810277469506557481
+    second: Lv 2 (Clouds) Layer 2_4
+  - first:
+      213: 259129265645815751
+    second: Lv 2 (Clouds) Layer 2_5
+  - first:
+      213: -7235904490018987336
+    second: Lv 2 (Clouds) Layer 2_6
+  - first:
+      213: 5434859551368908127
+    second: Lv 2 (Clouds) Layer 2_7
+  - first:
+      213: -1191208472903631974
+    second: Lv 2 (Clouds) Layer 2_8
+  - first:
+      213: -7715165319295431787
+    second: Lv 2 (Clouds) Layer 2_9
+  - first:
+      213: 3834178610193066051
+    second: Lv 2 (Clouds) Layer 2_10
+  - first:
+      213: -2858856157979658475
+    second: Lv 2 (Clouds) Layer 2_11
+  - first:
+      213: 7660633834071078793
+    second: Lv 2 (Clouds) Layer 2_12
+  - first:
+      213: 7495282001037904230
+    second: Lv 2 (Clouds) Layer 2_13
+  - first:
+      213: 7276621324166688127
+    second: Lv 2 (Clouds) Layer 2_14
+  - first:
+      213: -8590117830231388831
+    second: Lv 2 (Clouds) Layer 2_15
+  - first:
+      213: 1871920848635093503
+    second: Lv 2 (Clouds) Layer 2_16
+  - first:
+      213: -6925191731030764504
+    second: Lv 2 (Clouds) Layer 2_17
+  - first:
+      213: -7927179854486753096
+    second: Lv 2 (Clouds) Layer 2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 709
+        width: 262
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d57576203aa8c20800000000000000
+      internalID: 3209556915173940545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 829
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb21282f181b4800800000000000000
+      internalID: 597597897653038042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 759
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24394fc6a22fefae0800000000000000
+      internalID: -1513506160719391934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_3
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 849
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ae61dbc88cc44b0800000000000000
+      internalID: -5454764541859141073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_4
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 819
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926dc275afda36c60800000000000000
+      internalID: 7810277469506557481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 749
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c70ab5b1bc989300800000000000000
+      internalID: 259129265645815751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 679
+        width: 162
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a3cb2437e49b90800000000000000
+      internalID: -7235904490018987336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 619
+        width: 302
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8b7387ff7c6b40800000000000000
+      internalID: 5434859551368908127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 759
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bb427843af77fe0800000000000000
+      internalID: -1191208472903631974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_9
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 549
+        width: 352
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b8bffc40a3ee490800000000000000
+      internalID: -7715165319295431787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 669
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34865f1b12db53530800000000000000
+      internalID: 3834178610193066051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 589
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5173faf987d4358d0800000000000000
+      internalID: -2858856157979658475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 639
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987352262e9005a60800000000000000
+      internalID: 7660633834071078793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 579
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6694e3ba447940860800000000000000
+      internalID: 7495282001037904230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_14
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 669
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7decf78a80cbf460800000000000000
+      internalID: 7276621324166688127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 539
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d0f468855c9c880800000000000000
+      internalID: -8590117830231388831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 549
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ea8e08166af910800000000000000
+      internalID: 1871920848635093503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_17
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 499
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8245076dfc6c4ef90800000000000000
+      internalID: -6925191731030764504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv 2 (Clouds) Layer 2_18
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 509
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b03fae1ceffcf190800000000000000
+      internalID: -7927179854486753096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lv 2 (Clouds) Layer 2_0: 3209556915173940545
+      Lv 2 (Clouds) Layer 2_1: 597597897653038042
+      Lv 2 (Clouds) Layer 2_10: 3834178610193066051
+      Lv 2 (Clouds) Layer 2_11: -2858856157979658475
+      Lv 2 (Clouds) Layer 2_12: 7660633834071078793
+      Lv 2 (Clouds) Layer 2_13: 7495282001037904230
+      Lv 2 (Clouds) Layer 2_14: 7276621324166688127
+      Lv 2 (Clouds) Layer 2_15: -8590117830231388831
+      Lv 2 (Clouds) Layer 2_16: 1871920848635093503
+      Lv 2 (Clouds) Layer 2_17: -6925191731030764504
+      Lv 2 (Clouds) Layer 2_18: -7927179854486753096
+      Lv 2 (Clouds) Layer 2_2: -1513506160719391934
+      Lv 2 (Clouds) Layer 2_3: -5454764541859141073
+      Lv 2 (Clouds) Layer 2_4: 7810277469506557481
+      Lv 2 (Clouds) Layer 2_5: 259129265645815751
+      Lv 2 (Clouds) Layer 2_6: -7235904490018987336
+      Lv 2 (Clouds) Layer 2_7: 5434859551368908127
+      Lv 2 (Clouds) Layer 2_8: -1191208472903631974
+      Lv 2 (Clouds) Layer 2_9: -7715165319295431787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
