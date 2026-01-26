@@ -57,7 +57,7 @@ public class healthController : MonoBehaviour
         if (collision.CompareTag("Health"))
         {
             Heal(healthAmount);
-            collision.gameObject.SetActive(false);
+            Destroy(collision.gameObject);
         }
 
         if (collision.CompareTag("Ground"))   

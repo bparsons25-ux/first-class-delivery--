@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 3dde27b4ffa32704ea89e6706fa5a820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1655951570629530865
+    second: JetPack Flight SpriteSheet (1)-Sheet_0
+  - first:
+      213: -2093806870779013962
+    second: JetPack Flight SpriteSheet (1)-Sheet_1
+  - first:
+      213: -6536471659072062457
+    second: JetPack Flight SpriteSheet (1)-Sheet_2
+  - first:
+      213: -4483015597187269517
+    second: JetPack Flight SpriteSheet (1)-Sheet_3
+  - first:
+      213: -1775626699958910843
+    second: JetPack Flight SpriteSheet (1)-Sheet_4
+  - first:
+      213: -2845513181316375022
+    second: JetPack Flight SpriteSheet (1)-Sheet_5
+  - first:
+      213: -3717435217195997071
+    second: JetPack Flight SpriteSheet (1)-Sheet_6
+  - first:
+      213: -9106417360779742142
+    second: JetPack Flight SpriteSheet (1)-Sheet_7
+  - first:
+      213: -1431885975892233977
+    second: JetPack Flight SpriteSheet (1)-Sheet_8
+  - first:
+      213: 5541677174594951922
+    second: JetPack Flight SpriteSheet (1)-Sheet_9
+  - first:
+      213: 1113670791179498072
+    second: JetPack Flight SpriteSheet (1)-Sheet_10
+  - first:
+      213: 2138157766457016005
+    second: JetPack Flight SpriteSheet (1)-Sheet_11
+  - first:
+      213: -5638315799747099080
+    second: JetPack Flight SpriteSheet (1)-Sheet_12
+  - first:
+      213: 8239082714471647054
+    second: JetPack Flight SpriteSheet (1)-Sheet_13
+  - first:
+      213: -8708698569764523049
+    second: JetPack Flight SpriteSheet (1)-Sheet_14
+  - first:
+      213: 150224736564833723
+    second: JetPack Flight SpriteSheet (1)-Sheet_15
+  - first:
+      213: 2607234396112128891
+    second: JetPack Flight SpriteSheet (1)-Sheet_16
+  - first:
+      213: -8117494661786163411
+    second: JetPack Flight SpriteSheet (1)-Sheet_17
+  - first:
+      213: 2217559076882364610
+    second: JetPack Flight SpriteSheet (1)-Sheet_18
+  - first:
+      213: -6717804072892374129
+    second: JetPack Flight SpriteSheet (1)-Sheet_19
+  - first:
+      213: 565017360384384113
+    second: JetPack Flight SpriteSheet (1)-Sheet_20
+  - first:
+      213: 3650889975744196208
+    second: JetPack Flight SpriteSheet (1)-Sheet_21
+  - first:
+      213: 790846048365935786
+    second: JetPack Flight SpriteSheet (1)-Sheet_22
+  - first:
+      213: 1354675629091645399
+    second: JetPack Flight SpriteSheet (1)-Sheet_23
+  - first:
+      213: 8159086272198692110
+    second: JetPack Flight SpriteSheet (1)-Sheet_24
+  - first:
+      213: -4025462377099044122
+    second: JetPack Flight SpriteSheet (1)-Sheet_25
+  - first:
+      213: -5971811515408421763
+    second: JetPack Flight SpriteSheet (1)-Sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 159
+        width: 522
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b6063f1d0e409e0800000000000000
+      internalID: -1655951570629530865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 189
+        width: 542
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f54288a18f9180800000000000000
+      internalID: -9106417360779742142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 209
+        width: 572
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70174189a4be02ce0800000000000000
+      internalID: -1431885975892233977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 249
+        width: 582
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5f9b770ef7ec40800000000000000
+      internalID: 5541677174594951922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 159
+        width: 532
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8527bf02fad847f00800000000000000
+      internalID: 1113670791179498072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Flight SpriteSheet (1)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8359
+        y: 129
+        width: 512
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360a9837ada0c1b0800000000000000
+      internalID: -5638315799747099080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JetPack Flight SpriteSheet (1)-Sheet_0: -1655951570629530865
+      JetPack Flight SpriteSheet (1)-Sheet_1: -2093806870779013962
+      JetPack Flight SpriteSheet (1)-Sheet_10: 1113670791179498072
+      JetPack Flight SpriteSheet (1)-Sheet_11: 2138157766457016005
+      JetPack Flight SpriteSheet (1)-Sheet_12: -5638315799747099080
+      JetPack Flight SpriteSheet (1)-Sheet_13: 8239082714471647054
+      JetPack Flight SpriteSheet (1)-Sheet_14: -8708698569764523049
+      JetPack Flight SpriteSheet (1)-Sheet_15: 150224736564833723
+      JetPack Flight SpriteSheet (1)-Sheet_16: 2607234396112128891
+      JetPack Flight SpriteSheet (1)-Sheet_17: -8117494661786163411
+      JetPack Flight SpriteSheet (1)-Sheet_18: 2217559076882364610
+      JetPack Flight SpriteSheet (1)-Sheet_19: -6717804072892374129
+      JetPack Flight SpriteSheet (1)-Sheet_2: -6536471659072062457
+      JetPack Flight SpriteSheet (1)-Sheet_20: 565017360384384113
+      JetPack Flight SpriteSheet (1)-Sheet_21: 3650889975744196208
+      JetPack Flight SpriteSheet (1)-Sheet_22: 790846048365935786
+      JetPack Flight SpriteSheet (1)-Sheet_23: 1354675629091645399
+      JetPack Flight SpriteSheet (1)-Sheet_24: 8159086272198692110
+      JetPack Flight SpriteSheet (1)-Sheet_25: -4025462377099044122
+      JetPack Flight SpriteSheet (1)-Sheet_26: -5971811515408421763
+      JetPack Flight SpriteSheet (1)-Sheet_27: 268644887
+      JetPack Flight SpriteSheet (1)-Sheet_3: -4483015597187269517
+      JetPack Flight SpriteSheet (1)-Sheet_4: -1775626699958910843
+      JetPack Flight SpriteSheet (1)-Sheet_5: -2845513181316375022
+      JetPack Flight SpriteSheet (1)-Sheet_6: -3717435217195997071
+      JetPack Flight SpriteSheet (1)-Sheet_7: -9106417360779742142
+      JetPack Flight SpriteSheet (1)-Sheet_8: -1431885975892233977
+      JetPack Flight SpriteSheet (1)-Sheet_9: 5541677174594951922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

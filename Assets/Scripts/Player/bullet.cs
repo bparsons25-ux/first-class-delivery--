@@ -43,7 +43,7 @@ public class bullet : MonoBehaviour
 
         if (collision.CompareTag("Obstacle"))
         {
-            Score.instance.LosePoints();
+            Score.instance.addsmmallpoints();
             Debug.Log("Lost!");
             Destroy(collision.gameObject);
             Destroy(gameObject);
@@ -59,7 +59,7 @@ public class bullet : MonoBehaviour
             Destroy(Chimney);
 
         }
-
+        
        
     }
 

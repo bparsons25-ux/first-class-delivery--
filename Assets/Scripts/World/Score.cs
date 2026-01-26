@@ -69,4 +69,10 @@ public class Score : MonoBehaviour
         packagesDelivered += 1;
         packagesDeliveredText.text = ": X" + packagesDelivered.ToString();
     }
+
+    public void addsmmallpoints()
+    {
+        score += 5;
+        scoreText.text = "Score:" + score.ToString();
+    }
 }
