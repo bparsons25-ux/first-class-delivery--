@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3083045406127528106}
   - component: {fileID: -2715360855661892031}
   m_Layer: 0
-  m_Name: Robin Obstacle
+  m_Name: Robin prefab
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -148,8 +148,8 @@ Transform:
   m_GameObject: {fileID: 7931191505294041240}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.016, y: -0.011, z: 0}
-  m_LocalScale: {x: 0.57882655, y: 0.57882655, z: 0.57882655}
+  m_LocalPosition: {x: 0.01, y: -0.04, z: 0}
+  m_LocalScale: {x: 0.55610913, y: 0.55610913, z: 0.55610913}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 671716550667875114}
@@ -219,7 +219,7 @@ Animator:
   m_GameObject: {fileID: 7931191505294041240}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4db8be224bc5a1143bd0c7ffad9c9f53, type: 2}
+  m_Controller: {fileID: 9100000, guid: 0643a6ee5be25da4d8f9ea4203f3cede, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

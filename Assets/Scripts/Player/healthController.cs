@@ -21,6 +21,8 @@ public class healthController : MonoBehaviour
 
     public float cooldown = 1f;
 
+    Renderer ren;
+
 
 
     private void Awake()
@@ -48,6 +50,8 @@ public class healthController : MonoBehaviour
             if (allowDamage == true)
             {
                 TakeDamage(damageAmount);
+                ren = GetComponent<SpriteRenderer>();
+                ren.material.color = Color.red;
                 StartCoroutine(damageCooldown());
             }
             
@@ -69,7 +73,9 @@ public class healthController : MonoBehaviour
         if (collision.CompareTag("House"))
         {
             TakeDamage(damageAmount);
-            // House collsiion
+            ren=GetComponent<SpriteRenderer>();
+            ren.material.color = Color.red;
+            StartCoroutine(damageCooldown());
         }
 
     }
@@ -92,7 +98,9 @@ public class healthController : MonoBehaviour
     IEnumerator damageCooldown()
     {
         allowDamage = false;
+        
         yield return new WaitForSeconds(cooldown);
+        ren.material.color = Color.white;
         allowDamage = true;
     }
 
