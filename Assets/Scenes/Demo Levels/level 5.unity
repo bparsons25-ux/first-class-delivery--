@@ -1126,7 +1126,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 202655865}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b5ed66a0d1fd6c0489e2f48a77cbbab5, type: 3}
   m_Name: 
@@ -6250,7 +6250,7 @@ PrefabInstance:
     - target: {fileID: 6696797663289320040, guid: c82e70517f736344aba584df34da3039, type: 3}
       propertyPath: Enemy
       value: 
-      objectReference: {fileID: 1722085487402796745, guid: 776847d409af7964d993feff7a13f53d, type: 3}
+      objectReference: {fileID: 1722085487402796745, guid: 72f20a844a40734429c9c5f5a626ef4a, type: 3}
     - target: {fileID: 6696797663289320040, guid: c82e70517f736344aba584df34da3039, type: 3}
       propertyPath: timeBetweenSpawn
       value: 2.8

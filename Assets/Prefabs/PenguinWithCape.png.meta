@@ -190,94 +190,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PenguinWithCape_0
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 549
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e28bd60d350f32590800000000000000
-      internalID: -7700046695103612882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PenguinWithCape_1
-      rect:
-        serializedVersion: 2
-        x: 2260
-        y: 549
-        width: 72
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7942444547290e3b0800000000000000
-      internalID: -5485223317809650537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PenguinWithCape_2
-      rect:
-        serializedVersion: 2
-        x: 3860
-        y: 549
-        width: 52
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c671dd9f417432480800000000000000
-      internalID: -8925211881101256852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PenguinWithCape_3
-      rect:
-        serializedVersion: 2
-        x: 5460
-        y: 539
-        width: 42
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a00d3c4d964ad3970800000000000000
-      internalID: 8736319626616754186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: PenguinWithCape_4
       rect:
         serializedVersion: 2
@@ -286,7 +198,7 @@ TextureImporter:
         width: 412
         height: 182
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -300,28 +212,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PenguinWithCape_5
-      rect:
-        serializedVersion: 2
-        x: 7060
-        y: 549
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 146a9e554a71ddbf0800000000000000
-      internalID: -298056005753133503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: PenguinWithCape_6
       rect:
         serializedVersion: 2
@@ -330,7 +220,7 @@ TextureImporter:
         width: 72
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -344,72 +234,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PenguinWithCape_7
-      rect:
-        serializedVersion: 2
-        x: 10260
-        y: 549
-        width: 52
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53ee22d91a7342a50800000000000000
-      internalID: 6495377729840672309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PenguinWithCape_8
-      rect:
-        serializedVersion: 2
-        x: 11860
-        y: 539
-        width: 42
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07b7b980e65631230800000000000000
-      internalID: 3608339249719114608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PenguinWithCape_9
-      rect:
-        serializedVersion: 2
-        x: 13460
-        y: 549
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03437255baad2e850800000000000000
-      internalID: 6404922049477162032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: PenguinWithCape_10
       rect:
         serializedVersion: 2
@@ -418,7 +242,7 @@ TextureImporter:
         width: 412
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -440,7 +264,7 @@ TextureImporter:
         width: 442
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -462,7 +286,7 @@ TextureImporter:
         width: 442
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -484,7 +308,7 @@ TextureImporter:
         width: 442
         height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -506,7 +330,7 @@ TextureImporter:
         width: 442
         height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -528,7 +352,7 @@ TextureImporter:
         width: 442
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -550,7 +374,7 @@ TextureImporter:
         width: 442
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -572,7 +396,7 @@ TextureImporter:
         width: 412
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -589,7 +413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cddc3c38a36a213408c99015ae27f96d
     internalID: 0
     vertices: []
     indices: 

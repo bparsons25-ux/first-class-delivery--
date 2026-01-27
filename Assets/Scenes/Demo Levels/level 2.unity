@@ -3972,14 +3972,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 508072256}
-        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: Restart
-        m_Mode: 1
+      - m_Target: {fileID: 1079778730}
+        m_TargetAssemblyTypeName: EndLevel, Assembly-CSharp
+        m_MethodName: NextLevel
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -6254,7 +6254,7 @@ PrefabInstance:
     - target: {fileID: 6696797663289320040, guid: c82e70517f736344aba584df34da3039, type: 3}
       propertyPath: Enemy
       value: 
-      objectReference: {fileID: 1722085487402796745, guid: 776847d409af7964d993feff7a13f53d, type: 3}
+      objectReference: {fileID: 1722085487402796745, guid: 84e9127769f35a24fa39621f6d2f863f, type: 3}
     - target: {fileID: 6696797663289320040, guid: c82e70517f736344aba584df34da3039, type: 3}
       propertyPath: timeBetweenSpawn
       value: 2.25

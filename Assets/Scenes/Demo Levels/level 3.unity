@@ -6254,7 +6254,7 @@ PrefabInstance:
     - target: {fileID: 6696797663289320040, guid: c82e70517f736344aba584df34da3039, type: 3}
       propertyPath: Enemy
       value: 
-      objectReference: {fileID: 1722085487402796745, guid: 776847d409af7964d993feff7a13f53d, type: 3}
+      objectReference: {fileID: 1722085487402796745, guid: 4b79d3367e8ac4246b523fd5d2c7c17e, type: 3}
     - target: {fileID: 6696797663289320040, guid: c82e70517f736344aba584df34da3039, type: 3}
       propertyPath: timeBetweenSpawn
       value: 1.9
