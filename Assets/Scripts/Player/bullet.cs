@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -14,6 +15,8 @@ public class bullet : MonoBehaviour
 
     public GameObject DeliveryZone;
 
+    [SerializeField] private healthController hcontrol;
+
 
 
 
@@ -25,6 +28,7 @@ public class bullet : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.linearVelocity = transform.right * shootingSpeed;
+        hcontrol = GetComponent<healthController>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -39,6 +43,19 @@ public class bullet : MonoBehaviour
 
 
             
+        }
+
+        if (collision.CompareTag("Wronghouse"))
+        { 
+            Score.instance.LosePoints ();
+
+            Destroy(gameObject);
+            Destroy(collision.attachedRigidbody);
+
+            Debug.Log("Wrong house");
+
+
+
         }
 
         if (collision.CompareTag("Obstacle"))
@@ -59,8 +76,12 @@ public class bullet : MonoBehaviour
             Destroy(Chimney);
 
         }
-        
+        if (collision.CompareTag("Ground")) ;
+        {
+            Destroy(gameObject);
+        }
        
+        
     }
 
 

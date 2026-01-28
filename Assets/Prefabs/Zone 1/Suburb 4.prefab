@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5442721539025314536}
   m_Layer: 0
   m_Name: Delivery Space
-  m_TagString: Delivery
+  m_TagString: Wronghouse
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 728622361282398924}
   m_Layer: 0
   m_Name: chimney
-  m_TagString: Chimney
+  m_TagString: Wronghouse
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 356809118617999121}
   m_Layer: 0
   m_Name: Suburb 4
-  m_TagString: House
+  m_TagString: Wronghouse
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -31,7 +31,7 @@ public class healthController : MonoBehaviour
 
     }
 
-    private void TakeDamage(float amount)
+    public void TakeDamage(float amount)
     {
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxhealth);
@@ -66,17 +66,12 @@ public class healthController : MonoBehaviour
 
         if (collision.CompareTag("Ground"))   
         {
-            pm.Die();
-            // gROUND = insta death
-        }
-
-        if (collision.CompareTag("House"))
-        {
             TakeDamage(damageAmount);
-            ren=GetComponent<SpriteRenderer>();
+            ren = GetComponent<SpriteRenderer>();
             ren.material.color = Color.red;
             StartCoroutine(damageCooldown());
         }
+
 
     }
 
@@ -86,6 +81,7 @@ public class healthController : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth, 0, maxhealth);
         UpdateHealthBar();
     }
+
 
 
 
@@ -103,6 +99,7 @@ public class healthController : MonoBehaviour
         ren.material.color = Color.white;
         allowDamage = true;
     }
+
 
 
 }
