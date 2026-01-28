@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 5196884a5933e5e44b743c1af1642d6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1407726332088757770
+    second: PowerUp (Health) (1)-Sheet_0
+  - first:
+      213: 3588418965075869910
+    second: PowerUp (Health) (1)-Sheet_1
+  - first:
+      213: -6044616766625192514
+    second: PowerUp (Health) (1)-Sheet_2
+  - first:
+      213: -5681934829645718037
+    second: PowerUp (Health) (1)-Sheet_3
+  - first:
+      213: 3098650858976336475
+    second: PowerUp (Health) (1)-Sheet_4
+  - first:
+      213: -8232109467289602073
+    second: PowerUp (Health) (1)-Sheet_5
+  - first:
+      213: 9015941154154124971
+    second: PowerUp (Health) (1)-Sheet_6
+  - first:
+      213: -7590985042670920319
+    second: PowerUp (Health) (1)-Sheet_7
+  - first:
+      213: -8329816911200643896
+    second: PowerUp (Health) (1)-Sheet_8
+  - first:
+      213: -8518101956231217182
+    second: PowerUp (Health) (1)-Sheet_9
+  - first:
+      213: 6130054201548078559
+    second: PowerUp (Health) (1)-Sheet_10
+  - first:
+      213: -2095343041072534505
+    second: PowerUp (Health) (1)-Sheet_11
+  - first:
+      213: 6206155224706311543
+    second: PowerUp (Health) (1)-Sheet_12
+  - first:
+      213: 8023509833361885039
+    second: PowerUp (Health) (1)-Sheet_13
+  - first:
+      213: -3131873185571496758
+    second: PowerUp (Health) (1)-Sheet_14
+  - first:
+      213: -8485097430705805405
+    second: PowerUp (Health) (1)-Sheet_15
+  - first:
+      213: 6898353870678535545
+    second: PowerUp (Health) (1)-Sheet_16
+  - first:
+      213: 5825566373153514688
+    second: PowerUp (Health) (1)-Sheet_17
+  - first:
+      213: -7124548237617193399
+    second: PowerUp (Health) (1)-Sheet_18
+  - first:
+      213: 1884467965253285039
+    second: PowerUp (Health) (1)-Sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 449
+        width: 282
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d2e20c50c67ce0800000000000000
+      internalID: -1407726332088757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 459
+        width: 282
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04f965900acc130800000000000000
+      internalID: 3588418965075869910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 449
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56fe593153d1ca0800000000000000
+      internalID: -6044616766625192514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 449
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed1c0a6066b521b0800000000000000
+      internalID: -5681934829645718037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 459
+        width: 282
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5e34f98e900b20800000000000000
+      internalID: 3098650858976336475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 449
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b21a1e0ca1cd80800000000000000
+      internalID: -8232109467289602073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 449
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba69e2116be0f1d70800000000000000
+      internalID: 9015941154154124971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 449
+        width: 282
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ddb4c825767a690800000000000000
+      internalID: -7590985042670920319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7139
+        y: 439
+        width: 282
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c418db07ab866c80800000000000000
+      internalID: -8329816911200643896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 8739
+        y: 439
+        width: 282
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef3742d66f99c980800000000000000
+      internalID: -8518101956231217182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 429
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddf92161d3521550800000000000000
+      internalID: 6130054201548078559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 429
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce8421b98dbe2e0800000000000000
+      internalID: -2095343041072534505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 429
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ed859b41b02650800000000000000
+      internalID: 6206155224706311543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 5779
+        y: 429
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67836ddeab395f60800000000000000
+      internalID: 8023509833361885039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7149
+        y: 429
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc907c5ee95984d0800000000000000
+      internalID: -3131873185571496758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 429
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7633eb7d0ee3a80800000000000000
+      internalID: -8485097430705805405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8749
+        y: 429
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2cbcdb40ebbf50800000000000000
+      internalID: 6898353870678535545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8969
+        y: 429
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4a64f40c198d050800000000000000
+      internalID: 5825566373153514688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8759
+        y: 409
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e11b71025802d90800000000000000
+      internalID: -7124548237617193399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp (Health) (1)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 8979
+        y: 409
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4768b41a9f62a10800000000000000
+      internalID: 1884467965253285039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PowerUp (Health) (1)-Sheet_0: -1407726332088757770
+      PowerUp (Health) (1)-Sheet_1: 3588418965075869910
+      PowerUp (Health) (1)-Sheet_10: 6130054201548078559
+      PowerUp (Health) (1)-Sheet_11: -2095343041072534505
+      PowerUp (Health) (1)-Sheet_12: 6206155224706311543
+      PowerUp (Health) (1)-Sheet_13: 8023509833361885039
+      PowerUp (Health) (1)-Sheet_14: -3131873185571496758
+      PowerUp (Health) (1)-Sheet_15: -8485097430705805405
+      PowerUp (Health) (1)-Sheet_16: 6898353870678535545
+      PowerUp (Health) (1)-Sheet_17: 5825566373153514688
+      PowerUp (Health) (1)-Sheet_18: -7124548237617193399
+      PowerUp (Health) (1)-Sheet_19: 1884467965253285039
+      PowerUp (Health) (1)-Sheet_2: -6044616766625192514
+      PowerUp (Health) (1)-Sheet_3: -5681934829645718037
+      PowerUp (Health) (1)-Sheet_4: 3098650858976336475
+      PowerUp (Health) (1)-Sheet_5: -8232109467289602073
+      PowerUp (Health) (1)-Sheet_6: 9015941154154124971
+      PowerUp (Health) (1)-Sheet_7: -7590985042670920319
+      PowerUp (Health) (1)-Sheet_8: -8329816911200643896
+      PowerUp (Health) (1)-Sheet_9: -8518101956231217182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

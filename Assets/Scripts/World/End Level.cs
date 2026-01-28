@@ -20,27 +20,12 @@ public class EndLevel : MonoBehaviour
     [SerializeField] private Shoot Shoot;
     [SerializeField] private healthController Health;
 
-    public bool UIappear = true;
-    public bool gameEnd = false;
-    public bool UIdissapear = false;
-
-
     public float uiDelaywait = 1f;
     public float endgameplaywait = 1f;
 
-    Animator anim;
 
-     void Start()
-    {
-        anim = GetComponent<Animator>();
-    }
 
-     void Update()
-    {
-        anim.SetBool("GameEnd", gameEnd);
-        anim.SetBool("UIappear", UIappear);
-        anim.SetBool("UIdissapear", UIdissapear);
-    }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -72,8 +57,7 @@ public class EndLevel : MonoBehaviour
         yield return new WaitForSeconds(endgameplaywait);
         cM.enabled = false;
         Dest.gameObject.SetActive(true);
-        UIappear = false;
-        UIdissapear = true;
+
 
 
         //pM.gameObject
@@ -83,7 +67,7 @@ public class EndLevel : MonoBehaviour
         HealthBar.gameObject.SetActive(false);
         distanceCount.gameObject.SetActive(false);
         EndScreenCanvas.SetActive(true);
-        gameEnd = true;
+
         UnlockNewLevel();
 
 

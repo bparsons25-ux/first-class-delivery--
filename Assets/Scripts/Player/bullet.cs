@@ -76,7 +76,7 @@ public class bullet : MonoBehaviour
             Destroy(Chimney);
 
         }
-        if (collision.CompareTag("Ground")) ;
+        if (collision.CompareTag("Ground")) 
         {
             Destroy(gameObject);
         }

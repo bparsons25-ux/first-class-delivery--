@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: ddc20a3c1a3b53448ae1bb64320ccad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -381521861029616076
+    second: JetPack Throwing SpriteSheet-Sheet (1)_0
+  - first:
+      213: -2139244919043006598
+    second: JetPack Throwing SpriteSheet-Sheet (1)_1
+  - first:
+      213: -5187920043886716171
+    second: JetPack Throwing SpriteSheet-Sheet (1)_2
+  - first:
+      213: -1687613317863458840
+    second: JetPack Throwing SpriteSheet-Sheet (1)_3
+  - first:
+      213: 8523727867547781804
+    second: JetPack Throwing SpriteSheet-Sheet (1)_4
+  - first:
+      213: 8660963640108176743
+    second: JetPack Throwing SpriteSheet-Sheet (1)_5
+  - first:
+      213: 2453845167096741599
+    second: JetPack Throwing SpriteSheet-Sheet (1)_6
+  - first:
+      213: -6832932135101899160
+    second: JetPack Throwing SpriteSheet-Sheet (1)_7
+  - first:
+      213: -8249260896435757916
+    second: JetPack Throwing SpriteSheet-Sheet (1)_8
+  - first:
+      213: -3186067488568015558
+    second: JetPack Throwing SpriteSheet-Sheet (1)_9
+  - first:
+      213: 8253747487252064171
+    second: JetPack Throwing SpriteSheet-Sheet (1)_10
+  - first:
+      213: 5357935206806431062
+    second: JetPack Throwing SpriteSheet-Sheet (1)_11
+  - first:
+      213: -1813470328875394703
+    second: JetPack Throwing SpriteSheet-Sheet (1)_12
+  - first:
+      213: 8145182430436353798
+    second: JetPack Throwing SpriteSheet-Sheet (1)_13
+  - first:
+      213: -5049337654102903938
+    second: JetPack Throwing SpriteSheet-Sheet (1)_14
+  - first:
+      213: 2448378582851336590
+    second: JetPack Throwing SpriteSheet-Sheet (1)_15
+  - first:
+      213: 9151241543988628044
+    second: JetPack Throwing SpriteSheet-Sheet (1)_16
+  - first:
+      213: 2220631211456108178
+    second: JetPack Throwing SpriteSheet-Sheet (1)_17
+  - first:
+      213: -1538773368623493101
+    second: JetPack Throwing SpriteSheet-Sheet (1)_18
+  - first:
+      213: -6921509197927721959
+    second: JetPack Throwing SpriteSheet-Sheet (1)_19
+  - first:
+      213: -8502274851330389193
+    second: JetPack Throwing SpriteSheet-Sheet (1)_20
+  - first:
+      213: -8234251060414156980
+    second: JetPack Throwing SpriteSheet-Sheet (1)_21
+  - first:
+      213: -4260615941599120581
+    second: JetPack Throwing SpriteSheet-Sheet (1)_22
+  - first:
+      213: -5186344227848479436
+    second: JetPack Throwing SpriteSheet-Sheet (1)_23
+  - first:
+      213: 8995764760199638209
+    second: JetPack Throwing SpriteSheet-Sheet (1)_24
+  - first:
+      213: 2751600231640299935
+    second: JetPack Throwing SpriteSheet-Sheet (1)_25
+  - first:
+      213: -3061778606908670847
+    second: JetPack Throwing SpriteSheet-Sheet (1)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 159
+        width: 532
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436a84783ef84baf0800000000000000
+      internalID: -381521861029616076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 819
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd1e09410ef42e0800000000000000
+      internalID: -2139244919043006598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 809
+        width: 112
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fad005f43ec008b0800000000000000
+      internalID: -5187920043886716171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 819
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b786f0a46498e0800000000000000
+      internalID: -1687613317863458840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 7079
+        y: 819
+        width: 112
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa884bb55d5a4670800000000000000
+      internalID: 8523727867547781804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 8629
+        y: 819
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d83dfa8ce13870800000000000000
+      internalID: 8660963640108176743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 509
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde3c9ead2fcd0220800000000000000
+      internalID: 2453845167096741599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 189
+        width: 562
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e56e0fc6c8c21a0800000000000000
+      internalID: -6832932135101899160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 159
+        width: 652
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac1d60dbecb48d80800000000000000
+      internalID: -8249260896435757916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 139
+        width: 652
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358b79ef70d8c3d0800000000000000
+      internalID: -3186067488568015558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 149
+        width: 562
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7ae630c933b8270800000000000000
+      internalID: 8253747487252064171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 8339
+        y: 509
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655a14bdea53b5a40800000000000000
+      internalID: 5357935206806431062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 8359
+        y: 129
+        width: 682
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179dba4185245d6e0800000000000000
+      internalID: -1813470328875394703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 359
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60769e4f340890170800000000000000
+      internalID: 8145182430436353798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 359
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733138f7262de9b0800000000000000
+      internalID: -5049337654102903938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 369
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89378a59536af120800000000000000
+      internalID: 2448378582851336590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 369
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4d3be2bdbffe70800000000000000
+      internalID: 9151241543988628044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 369
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2969cf7425441de10800000000000000
+      internalID: 2220631211456108178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 8209
+        y: 369
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109d5526cd25aae0800000000000000
+      internalID: -1538773368623493101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 329
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145be36e0cd1ff90800000000000000
+      internalID: -6921509197927721959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 329
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b07b7d11ad10a80800000000000000
+      internalID: -8502274851330389193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 269
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f61a899401abd80800000000000000
+      internalID: -8234251060414156980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 269
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333e94ff504fd4c0800000000000000
+      internalID: -4260615941599120581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 259
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d913837676608b0800000000000000
+      internalID: -5186344227848479436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 259
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc2da6436067dc70800000000000000
+      internalID: 8995764760199638209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 259
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f997dc205d5af2620800000000000000
+      internalID: 2751600231640299935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack Throwing SpriteSheet-Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 8179
+        y: 259
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c715a34906285d0800000000000000
+      internalID: -3061778606908670847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JetPack Throwing SpriteSheet-Sheet (1)_0: -381521861029616076
+      JetPack Throwing SpriteSheet-Sheet (1)_1: -2139244919043006598
+      JetPack Throwing SpriteSheet-Sheet (1)_10: 8253747487252064171
+      JetPack Throwing SpriteSheet-Sheet (1)_11: 5357935206806431062
+      JetPack Throwing SpriteSheet-Sheet (1)_12: -1813470328875394703
+      JetPack Throwing SpriteSheet-Sheet (1)_13: 8145182430436353798
+      JetPack Throwing SpriteSheet-Sheet (1)_14: -5049337654102903938
+      JetPack Throwing SpriteSheet-Sheet (1)_15: 2448378582851336590
+      JetPack Throwing SpriteSheet-Sheet (1)_16: 9151241543988628044
+      JetPack Throwing SpriteSheet-Sheet (1)_17: 2220631211456108178
+      JetPack Throwing SpriteSheet-Sheet (1)_18: -1538773368623493101
+      JetPack Throwing SpriteSheet-Sheet (1)_19: -6921509197927721959
+      JetPack Throwing SpriteSheet-Sheet (1)_2: -5187920043886716171
+      JetPack Throwing SpriteSheet-Sheet (1)_20: -8502274851330389193
+      JetPack Throwing SpriteSheet-Sheet (1)_21: -8234251060414156980
+      JetPack Throwing SpriteSheet-Sheet (1)_22: -4260615941599120581
+      JetPack Throwing SpriteSheet-Sheet (1)_23: -5186344227848479436
+      JetPack Throwing SpriteSheet-Sheet (1)_24: 8995764760199638209
+      JetPack Throwing SpriteSheet-Sheet (1)_25: 2751600231640299935
+      JetPack Throwing SpriteSheet-Sheet (1)_26: -3061778606908670847
+      JetPack Throwing SpriteSheet-Sheet (1)_3: -1687613317863458840
+      JetPack Throwing SpriteSheet-Sheet (1)_4: 8523727867547781804
+      JetPack Throwing SpriteSheet-Sheet (1)_5: 8660963640108176743
+      JetPack Throwing SpriteSheet-Sheet (1)_6: 2453845167096741599
+      JetPack Throwing SpriteSheet-Sheet (1)_7: -6832932135101899160
+      JetPack Throwing SpriteSheet-Sheet (1)_8: -8249260896435757916
+      JetPack Throwing SpriteSheet-Sheet (1)_9: -3186067488568015558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

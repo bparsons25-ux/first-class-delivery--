@@ -42,7 +42,7 @@ public class Shoot : MonoBehaviour
                 forwardtimer = Time.time + shootforwardDelay;
                 Debug.Log("Right click - Fowards Shoot");
                 LoseAmmo();
-
+#
             }
 
  

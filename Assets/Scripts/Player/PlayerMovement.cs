@@ -19,10 +19,14 @@ public class PlayerMovement : MonoBehaviour
     public Transform shootingPoint;
     public GameObject bulletPrefab;
 
+    public bool isThrow = false;
+    Animator anim;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -36,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
         Flip();
 
+        anim.SetBool("isThrow", isThrow);   
  
     }
 
