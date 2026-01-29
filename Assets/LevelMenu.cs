@@ -33,7 +33,7 @@ public class LevelMenu : MonoBehaviour
 
     public void Update()
     {
-        anim.SetBool("screenBlack", screenBlack);
+        //anim.SetBool("screenBlack", screenBlack);
     }
     public void OpenLevel(int levelId)
     {

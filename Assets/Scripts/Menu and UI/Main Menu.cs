@@ -10,13 +10,24 @@ public class MainMenu : MonoBehaviour
 
     Animator anim;
 
+    public bool isFinished = false;
+
      void Start()
     {
         anim = GetComponent<Animator>();
     }
     public void PlayGame()
     {
-        StartCoroutine(Fade());
+        if (isFinished == true)
+        {
+            StartCoroutine(Fade());
+        }
+
+        if (isFinished == false)
+        {
+            StartCoroutine(Begin());
+        }
+
 
     }
 
@@ -35,5 +46,12 @@ public class MainMenu : MonoBehaviour
         screenBlack = true;
         yield return new WaitForSeconds(fadeDelay);
         SceneManager.LoadScene(1);
+    }
+
+    IEnumerator Begin()
+    {
+        screenBlack = true; 
+        yield return new WaitForSeconds(fadeDelay);
+        SceneManager.LoadScene(2);
     }
 }
