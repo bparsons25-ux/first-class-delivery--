@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     public Transform shootingPoint;
     public GameObject bulletPrefab;
 
-    public bool isThrow = false;
+    public bool isThrow1 = false;
     Animator anim;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -40,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
         Flip();
 
-        anim.SetBool("isThrow", isThrow);   
+        anim.SetBool("isThrow1", isThrow1);   
  
     }
 
@@ -51,7 +51,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void Flip()
     {
-        if (Input.GetMouseButtonDown(0) && Shoot.allowShooting == true)
+        if (Input.GetMouseButtonDown(0) && Shoot.allowShooting == true && Time.time >= downTimer)
         {
             transform.Rotate(0, 0, -90);
             Instantiate(bulletPrefab, shootingPoint.position, transform.rotation);
@@ -59,7 +59,11 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("Left click - downwards shoot");
             transform.Rotate(0, 0, 90);
             Shoot.LoseAmmo();
+            isThrow1 = true;
+
         }
+
+        else { isThrow1 = false;  }
     }
 
 

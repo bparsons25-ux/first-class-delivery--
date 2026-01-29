@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.Hierarchy;
 using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
@@ -22,6 +23,12 @@ public class EndLevel : MonoBehaviour
 
     public float uiDelaywait = 1f;
     public float endgameplaywait = 1f;
+    public float endlevelwiat = 3f;
+
+    public bool swipe = false;
+    public bool Uinterface = true;
+    public bool delay = false;
+
 
 
 
@@ -74,6 +81,14 @@ public class EndLevel : MonoBehaviour
 
     }
 
+    IEnumerator leveldelay()
+    {
+        swipe = true;
+        yield return new WaitForSeconds(endlevelwiat);
+        delay = true;
+    }
+   
+
     void UnlockNewLevel()
     {
         if (SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
@@ -86,6 +101,13 @@ public class EndLevel : MonoBehaviour
 
     public void NextLevel(int levelId)
     {
-        SceneManager.LoadScene(levelId + 1);
+        StartCoroutine(leveldelay());
+
+        if (delay == true)
+        {
+            SceneManager.LoadScene(levelId + 1);
+
+        }
+
     }
 }

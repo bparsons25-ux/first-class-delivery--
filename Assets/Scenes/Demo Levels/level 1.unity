@@ -726,7 +726,7 @@ MonoBehaviour:
   downShootDelay: 0.5
   shootingPoint: {fileID: 1988632052}
   bulletPrefab: {fileID: 1570687900097132724, guid: 9aa9253e520c61a4fb09387a7f230632, type: 3}
-  isThrow: 0
+  isThrow1: 0
 --- !u!114 &130473834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -748,6 +748,7 @@ MonoBehaviour:
   ammoText: {fileID: 1890131200}
   Player: {fileID: 130473828}
   pm: {fileID: 130473833}
+  isThrow: 0
 --- !u!114 &130473835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1323,7 +1324,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7599ae09db25176479bd6d4c0d87a7e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraSpeed: 7.5
+  cameraSpeed: 12
 --- !u!114 &260969067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3481,6 +3482,10 @@ MonoBehaviour:
   Health: {fileID: 130473835}
   uiDelaywait: 4
   endgameplaywait: 3
+  endlevelwiat: 1
+  swipe: 0
+  Uinterface: 1
+  delay: 0
 --- !u!4 &1079778732
 Transform:
   m_ObjectHideFlags: 0

@@ -22,11 +22,15 @@ public class Shoot : MonoBehaviour
 
     [SerializeField] PlayerMovement pm;
 
+    public bool isThrow = false;
+    Animator anim;
+
 
 
     private void Start()
     {
         ammoText.text = "Ammo:" + currentAmmo.ToString();
+        anim = GetComponent<Animator>();
     }
 
 
@@ -42,13 +46,18 @@ public class Shoot : MonoBehaviour
                 forwardtimer = Time.time + shootforwardDelay;
                 Debug.Log("Right click - Fowards Shoot");
                 LoseAmmo();
+                isThrow = true;
 
             }
 
- 
+
+            else { isThrow = false; }
+
         }
 
-            
+
+
+        anim.SetBool("isThrow", isThrow);
 
 
 
