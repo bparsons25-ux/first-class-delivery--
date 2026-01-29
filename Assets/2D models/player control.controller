@@ -42,9 +42,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.19363777
-  m_TransitionOffset: 0
-  m_ExitTime: 0.2745511
+  m_TransitionDuration: 0.19463767
+  m_TransitionOffset: 0.018391846
+  m_ExitTime: 0.013256713
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -118,7 +118,7 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: hasThrow
+  - m_Name: isThrow1
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0

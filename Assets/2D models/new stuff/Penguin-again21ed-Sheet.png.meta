@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a5ce3adc5c6cc664280cdb33f9874d48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4863491961902923352
+    second: Penguin-again21ed-Sheet_0
+  - first:
+      213: 1248940057423871681
+    second: Penguin-again21ed-Sheet_1
+  - first:
+      213: -1998547400115672290
+    second: Penguin-again21ed-Sheet_2
+  - first:
+      213: -7364815904412185328
+    second: Penguin-again21ed-Sheet_3
+  - first:
+      213: 4925616865234093987
+    second: Penguin-again21ed-Sheet_4
+  - first:
+      213: 1400597393217875389
+    second: Penguin-again21ed-Sheet_5
+  - first:
+      213: -5080016814385297465
+    second: Penguin-again21ed-Sheet_6
+  - first:
+      213: -1266929805492928962
+    second: Penguin-again21ed-Sheet_7
+  - first:
+      213: 7324021075366608511
+    second: Penguin-again21ed-Sheet_8
+  - first:
+      213: -2159292026574597340
+    second: Penguin-again21ed-Sheet_9
+  - first:
+      213: -8546972971186642159
+    second: Penguin-again21ed-Sheet_10
+  - first:
+      213: -346559674100011862
+    second: Penguin-again21ed-Sheet_11
+  - first:
+      213: -1960140386412635786
+    second: Penguin-again21ed-Sheet_12
+  - first:
+      213: -6727033638665625102
+    second: Penguin-again21ed-Sheet_13
+  - first:
+      213: 3984944562538252585
+    second: Penguin-again21ed-Sheet_14
+  - first:
+      213: 472110699052077828
+    second: Penguin-again21ed-Sheet_15
+  - first:
+      213: -7654324422803978517
+    second: Penguin-again21ed-Sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 549
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a10fca14d7618cb0800000000000000
+      internalID: -4863491961902923352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 539
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce71847d50255110800000000000000
+      internalID: 1248940057423871681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b23557abbb344e0800000000000000
+      internalID: -1998547400115672290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 559
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d4d5594faeac990800000000000000
+      internalID: -7364815904412185328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7079
+        y: 549
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a783ff117e4b5440800000000000000
+      internalID: 4925616865234093987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8659
+        y: 539
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde61098ebef6310800000000000000
+      internalID: 1400597393217875389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10249
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c78d855f972089b0800000000000000
+      internalID: -5080016814385297465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 11829
+        y: 559
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e3d3ced06fa6ee0800000000000000
+      internalID: -1266929805492928962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e73bc1d5624a560800000000000000
+      internalID: 7324021075366608511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42310bd9757a802e0800000000000000
+      internalID: -2159292026574597340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132e83dd5d036980800000000000000
+      internalID: -8546972971186642159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 369
+        width: 412
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac2bc300d5c03bf0800000000000000
+      internalID: -346559674100011862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 369
+        width: 412
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6795afd24be2cc4e0800000000000000
+      internalID: -1960140386412635786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 369
+        width: 412
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f16b370c86c4a2a0800000000000000
+      internalID: -6727033638665625102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 10269
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92987bb67fd5d4730800000000000000
+      internalID: 3984944562538252585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 11869
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40319afed264d8600800000000000000
+      internalID: 472110699052077828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin-again21ed-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 13469
+        y: 369
+        width: 412
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60c27ed7066c590800000000000000
+      internalID: -7654324422803978517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Penguin-again21ed-Sheet_0: -4863491961902923352
+      Penguin-again21ed-Sheet_1: 1248940057423871681
+      Penguin-again21ed-Sheet_10: -8546972971186642159
+      Penguin-again21ed-Sheet_11: -346559674100011862
+      Penguin-again21ed-Sheet_12: -1960140386412635786
+      Penguin-again21ed-Sheet_13: -6727033638665625102
+      Penguin-again21ed-Sheet_14: 3984944562538252585
+      Penguin-again21ed-Sheet_15: 472110699052077828
+      Penguin-again21ed-Sheet_16: -7654324422803978517
+      Penguin-again21ed-Sheet_2: -1998547400115672290
+      Penguin-again21ed-Sheet_3: -7364815904412185328
+      Penguin-again21ed-Sheet_4: 4925616865234093987
+      Penguin-again21ed-Sheet_5: 1400597393217875389
+      Penguin-again21ed-Sheet_6: -5080016814385297465
+      Penguin-again21ed-Sheet_7: -1266929805492928962
+      Penguin-again21ed-Sheet_8: 7324021075366608511
+      Penguin-again21ed-Sheet_9: -2159292026574597340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
