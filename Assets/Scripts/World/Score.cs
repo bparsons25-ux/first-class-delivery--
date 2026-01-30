@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
 
 public class Score : MonoBehaviour
@@ -9,7 +8,7 @@ public class Score : MonoBehaviour
     public TextMeshProUGUI highScoreText;
     public TextMeshProUGUI packagesDeliveredText;
 
-
+    [SerializeField] PlayerMovement pm;
 
 
 
@@ -28,7 +27,8 @@ public class Score : MonoBehaviour
         scoreText.text = "Score:" + score.ToString();
         highScoreText.text = "High Score:" + highscore.ToString();
         packagesDeliveredText.text = "X:" + packagesDelivered.ToString();
-;
+
+
 
 
 
@@ -36,6 +36,7 @@ public class Score : MonoBehaviour
 
     public void AddpointNormal()
     {
+        pm.righthouseaudio();
         score += 10;
         scoreText.text = "Score:" + score.ToString();
         if (highscore < score)
@@ -48,6 +49,7 @@ public class Score : MonoBehaviour
 
     public void AddpointBonus()
     {
+        pm.chimmneyaudio();
         score += 20;
         scoreText.text = "Score:" + score.ToString();
 
@@ -58,6 +60,7 @@ public class Score : MonoBehaviour
 
     public void LosePoints()
     {
+        pm.wronghouseaudio();
         score -= 5;
         scoreText.text = "Score:" + score.ToString();
 

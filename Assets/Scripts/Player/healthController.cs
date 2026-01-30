@@ -1,8 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using Unity.VisualScripting;
-using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -49,6 +45,7 @@ public class healthController : MonoBehaviour
         {
             if (allowDamage == true)
             {
+                pm.damageaudio();
                 TakeDamage(damageAmount);
                 ren = GetComponent<SpriteRenderer>();
                 ren.material.color = Color.red;
@@ -66,6 +63,7 @@ public class healthController : MonoBehaviour
 
         if (collision.CompareTag("Ground"))   
         {
+            pm.damageaudio();
             TakeDamage(damageAmount);
             ren = GetComponent<SpriteRenderer>();
             ren.material.color = Color.red;

@@ -54,7 +54,7 @@ public class EndLevel : MonoBehaviour
 
     public void BacktoLevel()
     {
-        SceneManager.LoadScene("Main Menu"); //chnage once level select function works
+        SceneManager.LoadScene(0); //chnage once level select function works
     }
 
     IEnumerator WaitforUIdisplay()

@@ -24,9 +24,9 @@ public class PlayerMovement : MonoBehaviour
     public Transform shootingPoint;
     public GameObject bulletPrefab;
 
-    public AudioClip flying;
-    public AudioClip shoot;
-    public AudioClip damage;
+    public AudioClip flying; // done
+    public AudioClip shoot; // done
+    public AudioClip damage; // done
     public AudioClip collect;
     public AudioClip complete;
     public AudioClip righthouse;
@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
 
     Renderer ren;
 
-    AudioSource playersfx; 
+    [SerializeField] AudioSource playersfx; 
 
 
 

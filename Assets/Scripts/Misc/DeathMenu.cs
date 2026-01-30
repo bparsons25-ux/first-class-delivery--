@@ -12,7 +12,7 @@ public class DeathMenu : MonoBehaviour
 
     public void Levelselect()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
         Time.timeScale = 1f;
         
     }

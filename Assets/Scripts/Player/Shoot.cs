@@ -1,11 +1,7 @@
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
 
-using UnityEngine.InputSystem;
-using System.Collections;
-using System.Diagnostics.CodeAnalysis;
-using UnityEditor.Tilemaps;
+
 
 public class Shoot : MonoBehaviour
 {

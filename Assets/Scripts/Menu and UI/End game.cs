@@ -15,7 +15,7 @@ public class Endgame : MonoBehaviour
     public void levelSelect()
     {
 
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
 
     }
 
