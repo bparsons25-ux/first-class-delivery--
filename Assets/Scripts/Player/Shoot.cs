@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 using UnityEngine.InputSystem;
 using System.Collections;
@@ -16,7 +17,7 @@ public class Shoot : MonoBehaviour
 
     public bool allowShooting = true;
     public int currentAmmo = 30;
-    public Text ammoText;
+    public TextMeshProUGUI ammoText;
 
     public GameObject Player;
 
@@ -42,6 +43,7 @@ public class Shoot : MonoBehaviour
         {
             if (Input.GetMouseButtonDown(1) && Time.time >= forwardtimer)
             {
+                pm.shootaudio();
                 Instantiate(bulletPrefab, shootingPoint.position, transform.rotation); // spawns 
                 forwardtimer = Time.time + shootforwardDelay;
                 Debug.Log("Right click - Fowards Shoot");
@@ -75,6 +77,18 @@ public class Shoot : MonoBehaviour
         {
             allowShooting = false;
             Debug.Log("No Ammo!!!");
+        }
+    }
+
+    public void GainAmmo()
+    {
+        currentAmmo += 5;
+        ammoText.text = "Ammo:" + currentAmmo.ToString();
+        Debug.Log("ammo pick up");
+        if (currentAmmo > 1)
+        {
+            allowShooting = true;
+
         }
     }
 

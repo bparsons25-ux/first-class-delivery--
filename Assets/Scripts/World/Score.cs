@@ -1,12 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class Score : MonoBehaviour
 {
     public static Score instance;
-    public Text scoreText;
-    public Text highScoreText;
-    public Text packagesDeliveredText;
+    public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI highScoreText;
+    public TextMeshProUGUI packagesDeliveredText;
 
 
 

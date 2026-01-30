@@ -5,7 +5,14 @@ public class PauseMenu : MonoBehaviour
 {
     [SerializeField] GameObject pauseMenu;
 
-    [SerializeField] private MainMenu menu;
+
+    private void Update()
+    {
+        if (Input.GetKeyDown("escape"))
+        {
+            Pause();
+        }
+    }
 
     public void Pause()
     {
@@ -15,19 +22,8 @@ public class PauseMenu : MonoBehaviour
 
     public void Home()
     {
-        if (menu.isFinished == true)
-        {
-            Time.timeScale = 1f;
-            SceneManager.LoadScene(1);
-        }
-
-        if (menu.isFinished == false)
-        {
             Time.timeScale = 1f;
             SceneManager.LoadScene(0);
-        }
-
-
     }
 
     public void Resume()

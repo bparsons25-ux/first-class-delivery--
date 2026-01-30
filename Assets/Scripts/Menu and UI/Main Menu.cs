@@ -18,17 +18,7 @@ public class MainMenu : MonoBehaviour
     }
     public void PlayGame()
     {
-        if (isFinished == true)
-        {
-            StartCoroutine(Fade());
-        }
-
-        if (isFinished == false)
-        {
-            StartCoroutine(Begin());
-        }
-
-
+      StartCoroutine(Begin());
     }
 
     void Update()

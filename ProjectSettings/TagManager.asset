@@ -18,6 +18,7 @@ TagManager:
   - House
   - Detector
   - Wronghouse
+  - shield
   layers:
   - Default
   - TransparentFX

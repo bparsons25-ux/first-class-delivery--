@@ -1,9 +1,10 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class distanceCount : MonoBehaviour
 {
-    public Text distanceText;
+    public TextMeshProUGUI distanceText;
     private float distance = 0f;
 
     private void Update()

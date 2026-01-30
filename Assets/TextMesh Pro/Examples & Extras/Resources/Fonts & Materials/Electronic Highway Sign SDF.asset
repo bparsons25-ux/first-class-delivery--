@@ -89,7 +89,7 @@ Material:
     - _TextureHeight: 1024
     - _TextureWidth: 1024
     - _UnderlayDilate: 0
-    - _UnderlayOffsetX: 0
+    - _UnderlayOffsetX: 1
     - _UnderlayOffsetY: 0
     - _UnderlaySoftness: 0
     - _VertexOffsetX: 0
@@ -5865,7 +5865,7 @@ Texture2D:
   m_TextureDimension: 2
   m_TextureSettings:
     serializedVersion: 2
-    m_FilterMode: 1
+    m_FilterMode: 0
     m_Aniso: 1
     m_MipBias: 0
     m_WrapU: 0

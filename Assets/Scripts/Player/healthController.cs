@@ -72,6 +72,10 @@ public class healthController : MonoBehaviour
             StartCoroutine(damageCooldown());
         }
 
+        if (collision.CompareTag("shield"))
+        {
+            PlayerMovement.shield();
+        }
 
     }
 
@@ -81,6 +85,9 @@ public class healthController : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth, 0, maxhealth);
         UpdateHealthBar();
     }
+
+
+
 
 
 
@@ -99,6 +106,8 @@ public class healthController : MonoBehaviour
         ren.material.color = Color.white;
         allowDamage = true;
     }
+
+
 
 
 

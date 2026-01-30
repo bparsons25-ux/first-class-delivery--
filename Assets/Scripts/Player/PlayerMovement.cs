@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -16,17 +17,40 @@ public class PlayerMovement : MonoBehaviour
     public float downTimer = 0;
     public float downShootDelay = 0.2f;
 
+    public float speedboosttime = 30f;
+    public float shieldboosttime = 30f;
+
+
     public Transform shootingPoint;
     public GameObject bulletPrefab;
+
+    public AudioClip flying;
+    public AudioClip shoot;
+    public AudioClip damage;
+    public AudioClip collect;
+    public AudioClip complete;
+    public AudioClip righthouse;
+    public AudioClip wronghouse;
+    public AudioClip chimmney;
+
+    [SerializeField] private camMove cm;
+    [SerializeField] private healthController hc;
+
+    Renderer ren;
+
+    AudioSource playersfx; 
+
+
 
     public bool isThrow1 = false;
     Animator anim;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        playersfx = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -53,6 +77,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0) && Shoot.allowShooting == true && Time.time >= downTimer)
         {
+            shootaudio();
             transform.Rotate(0, 0, -90);
             Instantiate(bulletPrefab, shootingPoint.position, transform.rotation);
             downTimer = Time.time + downShootDelay;
@@ -66,6 +91,49 @@ public class PlayerMovement : MonoBehaviour
         else { isThrow1 = false;  }
     }
 
+    public void shootaudio()
+    {
+        playersfx.PlayOneShot(shoot);
+    }
+
+    public void damageaudio()
+    {
+        playersfx.PlayOneShot(damage);
+    }
+
+
+    public void completeaudio()
+    {
+        playersfx.PlayOneShot(complete);
+    }
+
+
+    public void righthouseaudio()
+    {
+        playersfx.PlayOneShot(righthouse);
+    }
+
+    public void wronghouseaudio()
+    {
+        playersfx.PlayOneShot(wronghouse);
+    }
+
+
+    public void chimmneyaudio()
+    {
+        playersfx.PlayOneShot(chimmney);
+    }
+
+    public void collectaudio()
+    {
+        playersfx.PlayOneShot(collect);
+    }
+
+    public void shield()
+    {
+        StartCoroutine(shieldpowerup());
+    }
+
 
 
     public void Die()
@@ -77,6 +145,25 @@ public class PlayerMovement : MonoBehaviour
         
     
     }
+
+    IEnumerator speedpowerup()
+    {
+        //cm.cameraSpeed * 1.5f;
+        yield return new WaitForSeconds(speedboosttime);
+        //cm.cameraSpeed / 1.5;
+    }
+
+    IEnumerator shieldpowerup()
+    {
+        hc.allowDamage = false;
+        ren.GetComponent<SpriteRenderer>();
+        ren.material.color = Color.blue;
+        yield return new WaitForSeconds(shieldboosttime);
+        ren.material.color = Color.white;
+        hc.allowDamage = true;
+
+    }
+
 
 
 }
