@@ -75,7 +75,7 @@ public class EndLevel : MonoBehaviour
         distanceCount.gameObject.SetActive(false);
         EndScreenCanvas.SetActive(true);
 
-        UnlockNewLevel();
+
 
 
 
@@ -89,15 +89,7 @@ public class EndLevel : MonoBehaviour
     }
    
 
-    void UnlockNewLevel()
-    {
-        if (SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
-        {
-            PlayerPrefs.SetInt("Reachedindex", SceneManager.GetActiveScene().buildIndex + 1);
-            PlayerPrefs.SetInt("UnlockedLevel", PlayerPrefs.GetInt("UnlockLevel", 1) + 1);
-            PlayerPrefs.Save();
-        }
-    }
+
 
     public void NextLevel(int levelId)
     {

@@ -5,6 +5,8 @@ public class PauseMenu : MonoBehaviour
 {
     [SerializeField] GameObject pauseMenu;
 
+    [SerializeField] private MainMenu menu;
+
     public void Pause()
     {
      pauseMenu.SetActive(true);
@@ -13,8 +15,19 @@ public class PauseMenu : MonoBehaviour
 
     public void Home()
     {
-        SceneManager.LoadScene("Main Menu");
-        Time.timeScale = 1f;
+        if (menu.isFinished == true)
+        {
+            Time.timeScale = 1f;
+            SceneManager.LoadScene(1);
+        }
+
+        if (menu.isFinished == false)
+        {
+            Time.timeScale = 1f;
+            SceneManager.LoadScene(0);
+        }
+
+
     }
 
     public void Resume()
